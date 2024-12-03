@@ -155,3 +155,7 @@ h1 {
     background-color: #000;
     border-radius: 50%;
 }
+
+ul {
+    list-style: none;
+}
